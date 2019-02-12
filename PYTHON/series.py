@@ -10,7 +10,6 @@ while Term <= Number:
     Term = Term * Count
     Counter = Counter + 1
   if Term <= Number:
-    print ("m Main.class
-    ", Term, end = '')
+    print ("", Term, end = '')
   Count = Count + 1
 print(".")
